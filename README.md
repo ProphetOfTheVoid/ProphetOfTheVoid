@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prophetofthevoid&label=Profile%20views&color=f08914&style=flat" alt="prophetofthevoid" /> </p>
 
-- 🔭 I’m currently working on:     **Finishing my studies**
+- 🔭 I’m currently working on:     **Finishing my studies at UniBo**
 
 - 🌱 I’m currently learning:     **Next.js, React**
 
