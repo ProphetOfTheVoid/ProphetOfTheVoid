@@ -8,7 +8,7 @@
 
 - 💬 Ask me about:     **Videogames Lore 🕹**
 
-- 📫 How to reach me:     **manuel.barbieri16@gmail.com**
+- 📫 How to reach me:     **manuel.barbieri2@studio.unibo.it**
 
 - ⚡ Fun fact:     **I write fanfictions as a hobby 📜**
 
