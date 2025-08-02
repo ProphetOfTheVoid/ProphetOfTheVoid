@@ -2,15 +2,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prophetofthevoid&label=Profile%20views&color=f08914&style=flat" alt="prophetofthevoid" /> </p>
 
-- 🔭 I’m currently working on **Finishing my studies**
+- 🔭 I’m currently working on:     **Finishing my studies**
 
-- 🌱 I’m currently learning **Next.js, React**
+- 🌱 I’m currently learning:     **Next.js, React**
 
-- 💬 Ask me about **Videogames Lore 🕹**
+- 💬 Ask me about:     **Videogames Lore 🕹**
 
-- 📫 How to reach me **manuel.barbieri16@gmail.com**
+- 📫 How to reach me:     **manuel.barbieri16@gmail.com**
 
-- ⚡ Fun fact **I write fanfictions as a hobby 📜**
+- ⚡ Fun fact:     **I write fanfictions as a hobby 📜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
