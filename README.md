@@ -8,8 +8,6 @@
 
 - 💬 Ask me about:     **Videogames Lore 🕹**
 
-- ⚡ Fun fact:     **I write fanfictions as a hobby 📜**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
