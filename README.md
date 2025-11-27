@@ -1,12 +1,7 @@
 <h3 align="center">University Major in Computer Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prophetofthevoid&label=Profile%20views&color=f08914&style=flat" alt="prophetofthevoid" /> </p>
-
-- 🔭 I’m currently working on:     **Finishing my studies at UniBo**
-
-- 🌱 I’m currently learning:     **Next.js, React**
-
-- 💬 Ask me about:     **Videogames Lore 🕹**
+Currently working on finishing my studies at UniBo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
